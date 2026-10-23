@@ -1,0 +1,1 @@
+-- Pendiente: definir el modelo relacional del proyecto.
